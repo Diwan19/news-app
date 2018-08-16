@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="loadingERROR">unable to load news feeds ...........</string>
+    <string name="noCONNECTION">pls Check your internet connectivity</string>
+</resources>
